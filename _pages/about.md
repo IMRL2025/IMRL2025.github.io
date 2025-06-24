@@ -15,11 +15,11 @@ Dr. Yukun Lu will join the Department of Mechanical Engineering at the Universit
 
 Open Positions
 ======
+Please send your CV and research interest to yukun.lu@unb.ca
+
 1. MScE and PhD: We welcome applications from students with backgrounds in Mechanical & Mechatronics, Electrical Engineering, or Computer Science who are interested in pursuing graduate studies.
 1. Postdoctoral Fellow and Visiting Scholar: Candidates with expertise in intelligent mobility, truck platooning, autonomous driving, and tracked vehicles are welcome to apply. 
 1. Research Assistant/Associate: Both full-time and part-time positions are available, with options for hybrid or fully remote work. Proficient in Python and ROS 2 for robotic platform development and integration.
-
-Please send your CV and research interest to yukun.lu@unb.ca
 
 Female candidates are strongly encouraged to apply!
 

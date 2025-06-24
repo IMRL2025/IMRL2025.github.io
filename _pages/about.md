@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Intelligent Mobility and Robotics Lab"
+description: Research in autonomous vehicles, robotic mobility, and intelligent systems.
 author_profile: true
 redirect_from: 
   - /about/

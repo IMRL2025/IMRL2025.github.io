@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Intelligent Mobility and Robotics Lab / Home"
+title                    : "IMRL / Home"
 title_separator          : "-"
 name                     : &name "IMRL"
 description              : &description "Intelligent Mobility and Robotics Lab at the University of New Brunswick, Canada."

@@ -26,7 +26,7 @@ author:
   name             : "Intelligent Mobility and Robotics Lab - IMRL"
   pronouns         : # example: "they/them"  
   bio              : "by Dr. Yukun Lu"
-  location         : "Fredericton, New Brunswick, Canada"
+  location         : "Fredericton, NB E3B 5A3, Canada"
   employer         : "University of New Brunswick"
   uri              : # URL
   email            : "yukun.lu@unb.ca" 
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/yukun-lu-87b9b4152/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

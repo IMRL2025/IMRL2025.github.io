@@ -12,13 +12,13 @@ This is the official page of the Intelligent Mobility and Robotics Lab (IMRL) at
 
 Lab Director’s Bio
 ======
-Dr. Yukun Lu will join the Department of Mechanical Engineering at the University of New Brunswick as an Assistant Professor in July 2025. She earned her Ph.D. in Mechanical and Mechatronics Engineering from the University of Waterloo in 2023, where she continued as a Postdoctoral Researcher at the Mechatronic Vehicle Systems Lab. She holds a B.Eng. in Vehicle Engineering with a minor in Business Administration, completed in 2018. Her background and future research interests include ground vehicle corner modules, intelligent robotic mobility, data-driven learning-based control strategies, vehicle dynamics and control, etc.
+Dr. Yukun Lu will join the [Department of Mechanical Engineering](https://www.unb.ca/fredericton/engineering/depts/mechanical/index.html) at the [University of New Brunswick](https://www.unb.ca/) as an Assistant Professor in July 2025. She earned her Ph.D. in [Mechanical and Mechatronics Engineering](https://uwaterloo.ca/mechanical-mechatronics-engineering/) from the [University of Waterloo](https://uwaterloo.ca/) in 2023, where she continued as a Postdoctoral Researcher at the [Mechatronic Vehicle Systems Lab](https://uwaterloo.ca/mechatronic-vehicle-systems-lab/). She holds a B.Eng. in Vehicle Engineering with a minor in Business Administration, completed in 2018. Her background and future research interests include ground vehicle corner modules, intelligent robotic mobility, data-driven learning-based control strategies, vehicle dynamics and control, etc.
 
 Open Positions
 ======
 Please send your CV and research interest to yukun.lu@unb.ca
 
-1. MScE and PhD: We welcome applications from students with backgrounds in Mechanical & Mechatronics, Electrical Engineering, or Computer Science who are interested in pursuing graduate studies.
+1. [MScE and PhD](https://www.unb.ca/gradstudies/programs/mechanical.html): We welcome applications from students with backgrounds in Mechanical & Mechatronics, Electrical Engineering, or Computer Science who are interested in pursuing graduate studies.
 1. Postdoctoral Fellow and Visiting Scholar: Candidates with expertise in intelligent mobility, truck platooning, autonomous driving, and tracked vehicles are welcome to apply. 
 1. Research Assistant/Associate: Both full-time and part-time positions are available, with options for hybrid or fully remote work. Proficient in Python and ROS 2 for robotic platform development and integration.
 
@@ -41,4 +41,4 @@ This project focuses on advancing autonomous marine systems in underwater enviro
 
 Collaborations 
 ======
-We actively collaborate with leading institutions worldwide, including: University of Waterloo, University of Alberta, University of Ottawa, University of Michigan, University of Hong Kong, etc.
+We actively collaborate with leading institutions worldwide, including: [University of Waterloo](https://uwaterloo.ca/mechanical-mechatronics-engineering/profile/akhajepo), [University of Alberta](https://apps.ualberta.ca/directory/person/ehashemi), [University of Ottawa](https://uniweb.uottawa.ca/view/profile/members/5853), [University of Michigan](https://umdearborn.edu/people-um-dearborn/xin-xia), [University of Hong Kong](https://www.dase.hku.hk/people/c-sun), etc.

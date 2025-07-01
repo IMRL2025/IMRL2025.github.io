@@ -1,6 +1,6 @@
 ---
-title: "Yukun Lu, Director"
-excerpt: "Assistant Professor at the University of New Brunswick, Canada <br/><img src='/images/500x300.png'>"
+title: "Dr. Yukun Lu, Lab Director"
+excerpt: "Assistant Professor at the University of New Brunswick, Canada <br/><img src='/images/favicon-192x192.png'>"
 collection: portfolio
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Taiwo Ojo, Research Assistant"
-excerpt: "MEng in Electrical and Electronics Engineering & Computer Science <br/><img src='/images/500x300.png'>"
+excerpt: "MEng in Electrical and Electronics Engineering & Computer Science <br/><img src='/images/bio-photo.jpg'>"
 collection: portfolio
 ---
 

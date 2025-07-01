@@ -1,6 +1,6 @@
 ---
 title: "Kaiyue Lu, Technician"
-excerpt: "MEng in System Design Engineering, BEng in Mechanical Engineering <br/><img src='/images/500x300.png'>"
+excerpt: "MEng in System Design Engineering, BEng in Mechanical Engineering <br/><img src='/images/bio-photo.jpg'>"
 collection: portfolio
 ---
 

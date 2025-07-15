@@ -1,6 +1,6 @@
 ---
 title: "Dr. Yukun Lu, Lab Director"
-excerpt: "Assistant Professor, Department of Mechanical Engineering, University of New Brunswick, Canada <br\><br\>"
+excerpt: "Assistant Professor, Department of Mechanical Engineering, University of New Brunswick, Canada <br/><br/>"
 collection: portfolio
 ---
 

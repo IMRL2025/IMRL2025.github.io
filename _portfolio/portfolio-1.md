@@ -8,4 +8,4 @@ Yukun Lu is currently an Assistant Professor with the Department of Mechanical E
 
 Google Scholar: [Yukun Lu 卢玉坤](https://scholar.google.com/citations?user=hLT1BjYAAAAJ&hl=en)
 
-LinkedIn: [Yukun Lu](https://www.linkedin.com/in/yukun-lu-87b9b4152/)
+LinkedIn: [Yukun Lu](https://www.linkedin.com/in/yukun-lu-intelligent-mobility-and-robotics-lab/)

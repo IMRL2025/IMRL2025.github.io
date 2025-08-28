@@ -12,7 +12,7 @@ This is the official page of the Intelligent Mobility and Robotics Lab (IMRL) at
 
 Lab Director’s Bio
 ======
-[Dr. Yukun Lu](https://www.unb.ca/faculty-staff/directory/engineering-mechanical/lu-yukun.html) joined the [Department of Mechanical Engineering](https://www.unb.ca/fredericton/engineering/depts/mechanical/index.html) at the [University of New Brunswick](https://www.unb.ca/) as an Assistant Professor in July 2025. She earned her Ph.D. in [Mechanical and Mechatronics Engineering](https://uwaterloo.ca/mechanical-mechatronics-engineering/) from the [University of Waterloo](https://uwaterloo.ca/) in 2023, where she continued as a Postdoctoral Researcher at the [Mechatronic Vehicle Systems Lab](https://uwaterloo.ca/mechatronic-vehicle-systems-lab/). She holds a B.Eng. in Vehicle Engineering with a minor in Business Administration, completed in 2018. Her background and future research interests include ground vehicle corner modules, intelligent robotic mobility, data-driven learning-based control strategies, vehicle dynamics and control, etc.
+[Dr. Yukun Lu](https://www.unb.ca/faculty-staff/directory/engineering-mechanical/lu-yukun.html) joined the [Department of Mechanical Engineering](https://www.unb.ca/fredericton/engineering/depts/mechanical/index.html) at the [University of New Brunswick](https://www.unb.ca/) as an Assistant Professor in July 2025. She also serves as an Adjunct Assistant Professor at the [University of Waterloo](https://uwaterloo.ca/). She earned her Ph.D. in [Mechanical and Mechatronics Engineering](https://uwaterloo.ca/mechanical-mechatronics-engineering/) from the [University of Waterloo](https://uwaterloo.ca/) in 2023, where she continued as a Postdoctoral Researcher at the [Mechatronic Vehicle Systems Lab](https://uwaterloo.ca/mechatronic-vehicle-systems-lab/). She holds a B.Eng. in Vehicle Engineering with a minor in Business Administration, completed in 2018. Her background and future research interests include ground vehicle corner modules, intelligent robotic mobility, data-driven learning-based control strategies, vehicle dynamics and control, etc.
 
 Open Positions
 ======
@@ -38,7 +38,8 @@ This robotic platform features a modular chassis capable of transitioning betwee
 
 This project focuses on advancing autonomous marine systems in underwater environments. Research areas include: perception and localization for maritime autonomy, sensor fusion for enhanced situational awareness, wave simulation and pattern recognition, learning-based control for 3D printers and robots on marine platforms.
 
-
+<!--
 Collaborations 
 ======
 We actively collaborate with leading institutions worldwide, including: [University of Waterloo](https://uwaterloo.ca/mechanical-mechatronics-engineering/profile/akhajepo), [University of Alberta](https://apps.ualberta.ca/directory/person/ehashemi), [University of Ottawa](https://uniweb.uottawa.ca/view/profile/members/5853), [University of Michigan](https://umdearborn.edu/people-um-dearborn/xin-xia), [University of Hong Kong](https://www.dase.hku.hk/people/c-sun), etc.
+-->

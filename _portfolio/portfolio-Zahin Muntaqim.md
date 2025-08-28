@@ -1,6 +1,6 @@
 ---
-title: "Zahin Muntaqim, Research Assistant"
-excerpt: "Bsc in Computer Science and Engineering <br/><br/>"
+title: "Zahin Muntaqim, Research Assistant (Part-time)"
+excerpt: "BSc in Computer Science and Engineering <br/><br/>"
 collection: portfolio
 ---
 

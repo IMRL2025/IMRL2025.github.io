@@ -34,10 +34,6 @@ Log loading in forestry involves the use of specialized equipment, such as log l
 
 This robotic platform features a modular chassis capable of transitioning between tracked and wheeled mobility. The tracked system ensures superior traction on soft, uneven, or loose surfaces, making it ideal for navigating through mud, snow, or forest floors. The wheeled corner module system enhances maneuverability and speed on firmer ground, optimizing performance for mixed-terrain environments. We aim to develop a fleet of autonomous robotic mobility for sustainable land management in forestry and agriculture. 
 
-**Autonomy for Ships and Submarines (Co-PI)**
-
-This project focuses on advancing autonomous marine systems in underwater environments. Research areas include: perception and localization for maritime autonomy, sensor fusion for enhanced situational awareness, wave simulation and pattern recognition, learning-based control for 3D printers and robots on marine platforms.
-
 <!--
 Collaborations 
 ======

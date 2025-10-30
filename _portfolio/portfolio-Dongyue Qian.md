@@ -1,6 +1,6 @@
 ---
 title: "Dongyue Qian, Research Assistant (Part-time)"
-excerpt: "MASc in Electrical and Electronic Engineering, BEng in Electronics and Information <br/><br/>"
+excerpt: "MSc in Electrical and Electronic Engineering, BSc in Electronics and Information <br/><br/>"
 collection: portfolio
 ---
 

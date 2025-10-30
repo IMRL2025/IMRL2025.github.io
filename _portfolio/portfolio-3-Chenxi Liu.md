@@ -1,6 +1,6 @@
 ---
 title: "Chenxi Liu, Research Associate (Hybrid)"
-excerpt: "MASc in Geography, BSc in Forestry <br/><br/>"
+excerpt: "MSc in Geography, BSc in Forestry <br/><br/>"
 collection: portfolio
 ---
 

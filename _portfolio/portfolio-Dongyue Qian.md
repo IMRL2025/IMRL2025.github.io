@@ -1,5 +1,5 @@
 ---
-title: "Dongyue Qian, Research Assistant (Part-time)"
+title: "Dongyue Qian, Research Assistant (incoming PhD student)"
 excerpt: "MSc in Electrical and Electronic Engineering, BSc in Electronics and Information <br/><br/>"
 collection: portfolio
 ---

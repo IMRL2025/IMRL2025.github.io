@@ -1,5 +1,5 @@
 ---
-title: "Jincheng (Frank) Xu, Research Assistant (Part-time)"
+title: "Jincheng (Frank) Xu, Research Assistant (Remote Part-time)"
 excerpt: "MSc in Computer Science <br/><br/>"
 collection: portfolio
 ---

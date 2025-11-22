@@ -1,5 +1,5 @@
 ---
-title: "Syed Shahan Ali, Undergraduate Student (On-site)"
+title: "Syed Shahan Ali, Undergraduate Student"
 excerpt: "Department of Mechanical Engineering, University of New Brunswick <br/><br/>"
 collection: portfolio
 ---

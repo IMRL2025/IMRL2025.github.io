@@ -34,6 +34,15 @@ Log loading in forestry involves the use of specialized equipment, such as log l
 
 This robotic platform features a modular chassis capable of transitioning between tracked and wheeled mobility. The tracked system ensures superior traction on soft, uneven, or loose surfaces, making it ideal for navigating through mud, snow, or forest floors. The wheeled corner module system enhances maneuverability and speed on firmer ground, optimizing performance for mixed-terrain environments. We aim to develop a fleet of autonomous robotic mobility for sustainable land management in forestry and agriculture. 
 
+News
+======
+November 14, 2025, Springboard Atlantic: [UNB researcher explores autonomous truck technologies to tackle driver shortage in forestry](https://springboardatlantic.ca/unb-researcher-explores-autonomous-truck-technologies-to-tackle-driver-shortage-in-forestry/)
+
+November 12, 2025, UNB News: [UNB researcher explores human-in-the-loop autonomous truck technology to solve labour gaps in New Brunswick's forestry sector](https://blogs.unb.ca/newsroom/2025/11/yukun-lu.php)
+
+November 11, 2025, Elsevier: [Control Engineering Practice 2025 ECAB Best Paper Award](https://www.sciencedirect.com/journal/control-engineering-practice/about/news/control-engineering-practice-2025-ecab-best-paper-award)
+
+
 <!--
 Collaborations 
 ======

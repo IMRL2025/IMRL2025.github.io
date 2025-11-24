@@ -1,20 +1,23 @@
 ---
 layout: archive
 permalink: /research/
-title: "Research"
+title: "Research Topics"
 author_profile: true
 ---
 
-Here are our recent research stories: 
+Explore our latest research stories:
 
-Human-Led Platooning with Autonomous Trailers
-======
+**Human-Led Platooning with Autonomous Trailers**
 
-**Understanding Human Behavior and Uncertainty in Human-in-the-Loop Autonomous Platooning Systems**
-
-
-**Dual-Control Leader-Follower Truck Platooning**
+1. Concept design: self-propelled heavy-duty trailer with hybrid diesel-electric powertrain and independent wheel corner modules
 
 
-Truck-Navigator: an Experience-driven Self-evolving Safety and Passability Mapping System
-======
+1. Understanding human behavior and uncertainty in human-in-the-loop autonomous platooning systems
+
+
+1. Dual-control leader-follower truck platooning
+
+
+**Truck-Navigator: an Experience-driven Self-evolving Safety and Passability Mapping System**
+
+

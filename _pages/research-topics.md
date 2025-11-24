@@ -5,10 +5,16 @@ title: "Research Topics"
 author_profile: true
 ---
 
-Here are our research stories: 
+Here are our recent research stories: 
 
-Heading 1
+Human-Led Platooning with Autonomous Trailers
 ======
 
-Heading 2
+**Understanding Human Behavior and Uncertainty in Human-in-the-Loop Autonomous Platooning Systems**
+
+
+**Dual-Control Leader-Follower Truck Platooning**
+
+
+Truck-Navigator: an Experience-driven Self-evolving Safety and Passability Mapping System
 ======

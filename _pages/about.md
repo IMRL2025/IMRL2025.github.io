@@ -8,11 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-This is the official page of the Intelligent Mobility and Robotics Lab (IMRL) at the University of New Brunswick, Fredericton, Canada.
+The Intelligent Mobility and Robotics Lab (IMRL), founded by Dr. Yukun Lu, is dedicated to advancing intelligent systems that enhance human well-being, accelerate technological innovation for industry, and serve the broader STEM community.
 
 Lab Director’s Bio
 ======
 [Dr. Yukun Lu](https://www.unb.ca/faculty-staff/directory/engineering-mechanical/lu-yukun.html) joined the [Department of Mechanical Engineering](https://www.unb.ca/fredericton/engineering/depts/mechanical/index.html) at the [University of New Brunswick](https://www.unb.ca/) (UNB) as an Assistant Professor in July 2025, where she founded the Intelligent Mobility and Robotics Lab (IMRL). She also holds an appointment as an Adjunct Assistant Professor at the [University of Waterloo](https://uwaterloo.ca/) and serves as the Faculty Advisor for the [UNB Formula Racing Team](https://www.unbracing.com/). She earned her Ph.D. in [Mechanical and Mechatronics Engineering](https://uwaterloo.ca/mechanical-mechatronics-engineering/) from the University of Waterloo in 2023, where she continued as a Postdoctoral Researcher at the [Mechatronic Vehicle Systems Lab](https://uwaterloo.ca/mechatronic-vehicle-systems-lab/). She holds a B.Eng. in Vehicle Engineering with a minor in Business Administration, completed in 2018. Her background and future research interests include ground vehicle corner modules, intelligent robotic mobility, human-machine interaction, data-driven learning-based control strategies, vehicle dynamics and control, etc.
+
+
+
+News
+======
+November 14, 2025, Springboard Atlantic: [UNB researcher explores autonomous truck technologies to tackle driver shortage in forestry](https://springboardatlantic.ca/unb-researcher-explores-autonomous-truck-technologies-to-tackle-driver-shortage-in-forestry/)
+
+November 12, 2025, UNB News: [UNB researcher explores human-in-the-loop autonomous truck technology to solve labour gaps in New Brunswick's forestry sector](https://blogs.unb.ca/newsroom/2025/11/yukun-lu.php)
+
+November 11, 2025, Elsevier: [Control Engineering Practice 2025 ECAB Best Paper Award](https://www.sciencedirect.com/journal/control-engineering-practice/about/news/control-engineering-practice-2025-ecab-best-paper-award)
+
+
 
 Open Positions
 ======
@@ -24,23 +36,7 @@ Please send your CV and research interest to yukun.lu@unb.ca
 
 Female candidates are strongly encouraged to apply!
 
-Research Topics
-======
-**Autonomous Log Loading and Transportation in Forestry**
 
-Log loading in forestry involves the use of specialized equipment, such as log loaders and cranes, to lift, move, and stack logs onto trucks or trailers for transport. To improve efficiency and safety in forestry operations, we aim to develop a modular autonomous platooning system equipped with assist log-loading technology.
-
-**Robotic Mobility with Tracked and Wheeled Corner Modules for Forestry and Agriculture**
-
-This robotic platform features a modular chassis capable of transitioning between tracked and wheeled mobility. The tracked system ensures superior traction on soft, uneven, or loose surfaces, making it ideal for navigating through mud, snow, or forest floors. The wheeled corner module system enhances maneuverability and speed on firmer ground, optimizing performance for mixed-terrain environments. We aim to develop a fleet of autonomous robotic mobility for sustainable land management in forestry and agriculture. 
-
-News
-======
-November 14, 2025, Springboard Atlantic: [UNB researcher explores autonomous truck technologies to tackle driver shortage in forestry](https://springboardatlantic.ca/unb-researcher-explores-autonomous-truck-technologies-to-tackle-driver-shortage-in-forestry/)
-
-November 12, 2025, UNB News: [UNB researcher explores human-in-the-loop autonomous truck technology to solve labour gaps in New Brunswick's forestry sector](https://blogs.unb.ca/newsroom/2025/11/yukun-lu.php)
-
-November 11, 2025, Elsevier: [Control Engineering Practice 2025 ECAB Best Paper Award](https://www.sciencedirect.com/journal/control-engineering-practice/about/news/control-engineering-practice-2025-ecab-best-paper-award)
 
 
 <!--

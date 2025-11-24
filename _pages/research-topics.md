@@ -1,13 +1,11 @@
 ---
+layout: archive
 permalink: /research/
 title: "Research Topics"
 author_profile: true
-redirect_from: 
-  - "/nmp/"
-  - "/nmp.html"
 ---
 
-This is a page not in the menu. You can use markdown in this page.
+Here are our research stories: 
 
 Heading 1
 ======

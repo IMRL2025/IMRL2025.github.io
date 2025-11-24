@@ -1,6 +1,6 @@
 ---
-permalink: /non-menu-page/
-title: "Page not in menu"
+permalink: /research/
+title: "Research Topics"
 author_profile: true
 redirect_from: 
   - "/nmp/"

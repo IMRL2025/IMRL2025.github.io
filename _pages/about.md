@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Intelligent Mobility and Robotics Lab"
+title: ""
 description: Research in autonomous vehicles, robotic mobility, and intelligent systems.
 author_profile: true
 redirect_from: 
@@ -8,13 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-The Intelligent Mobility and Robotics Lab (IMRL), founded by Dr. Yukun Lu, is dedicated to advancing intelligent systems that enhance human well-being, accelerate technological innovation for industry, and serve the broader STEM community.
-
 <p align="center">
-  <img src="/images/banner2.png" alt="IMRL overview" width="90%">
+  <img src="/images/Banner.png" alt="IMRL overview" width="90%">
   <br>
 </p>
 
+The Intelligent Mobility and Robotics Lab (IMRL), founded by Dr. Yukun Lu, is dedicated to advancing intelligent systems that enhance human well-being, accelerate technological innovation for industry, and serve the broader STEM community.
 
 Lab Director’s Bio
 ======

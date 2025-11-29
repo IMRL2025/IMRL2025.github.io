@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="/images/Banner.png" alt="IMRL overview" width="90%">
+  <img src="/images/Banner.png" alt="IMRL overview" width="100%">
   <br>
 </p>
 

@@ -29,7 +29,10 @@ November 14, 2025, Springboard Atlantic: [UNB researcher explores autonomous tru
 November 12, 2025, UNB News: [UNB researcher explores human-in-the-loop autonomous truck technology to solve labour gaps in New Brunswick's forestry sector](https://blogs.unb.ca/newsroom/2025/11/yukun-lu.php)
 
 November 11, 2025, Elsevier: [Control Engineering Practice 2025 ECAB Best Paper Award](https://www.sciencedirect.com/journal/control-engineering-practice/about/news/control-engineering-practice-2025-ecab-best-paper-award)
-
+<p align="left">
+  <img src="/images/CEP 2025 ECAB Best Paper Award.png" alt="News Nov 11" width="50%">
+  <br>
+</p>
 
 
 Open Positions

@@ -1,9 +1,14 @@
 ---
 layout: archive
 permalink: /research/
-title: "Research Topics"
+title: ""
 author_profile: true
 ---
+
+<p align="center">
+  <img src="/images/Banner.png" alt="IMRL overview" width="100%">
+  <br>
+</p>
 
 Explore our latest research stories:
 

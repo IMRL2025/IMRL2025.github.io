@@ -11,7 +11,7 @@ redirect_from:
 The Intelligent Mobility and Robotics Lab (IMRL), founded by Dr. Yukun Lu, is dedicated to advancing intelligent systems that enhance human well-being, accelerate technological innovation for industry, and serve the broader STEM community.
 
 <p align="center">
-  <img src="/images/banner.png" alt="IMRL overview" width="90%">
+  <img src="/images/banner2.png" alt="IMRL overview" width="90%">
   <br>
 </p>
 
@@ -25,12 +25,20 @@ Lab Director’s Bio
 News
 ======
 November 14, 2025, Springboard Atlantic: [UNB researcher explores autonomous truck technologies to tackle driver shortage in forestry](https://springboardatlantic.ca/unb-researcher-explores-autonomous-truck-technologies-to-tackle-driver-shortage-in-forestry/)
+<p align="center">
+  <img src="/images/UNB news.jpg" alt="News Nov 14" width="80%">
+  <br>
+</p>
 
 November 12, 2025, UNB News: [UNB researcher explores human-in-the-loop autonomous truck technology to solve labour gaps in New Brunswick's forestry sector](https://blogs.unb.ca/newsroom/2025/11/yukun-lu.php)
+<p align="center">
+  <img src="/images/camera.png" alt="News Nov 12" width="90%">
+  <br>
+</p>
 
 November 11, 2025, Elsevier: [Control Engineering Practice 2025 ECAB Best Paper Award](https://www.sciencedirect.com/journal/control-engineering-practice/about/news/control-engineering-practice-2025-ecab-best-paper-award)
-<p align="left">
-  <img src="/images/CEP 2025 ECAB Best Paper Award.png" alt="News Nov 11" width="50%">
+<p align="center">
+  <img src="/images/CEP 2025 ECAB Best Paper Award.png" alt="News Nov 11" width="60%">
   <br>
 </p>
 

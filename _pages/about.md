@@ -61,3 +61,10 @@ Collaborations
 ======
 We actively collaborate with leading institutions worldwide, including: [University of Waterloo](https://uwaterloo.ca/mechanical-mechatronics-engineering/profile/akhajepo), [University of Alberta](https://apps.ualberta.ca/directory/person/ehashemi), [University of Ottawa](https://uniweb.uottawa.ca/view/profile/members/5853), [University of Michigan](https://umdearborn.edu/people-um-dearborn/xin-xia), [University of Hong Kong](https://www.dase.hku.hk/people/c-sun), etc.
 -->
+
+
+## Visitor Map
+<div style="max-width: 650px; margin: 0 auto; text-align: center;">
+  <!-- ClustrMaps embed script -->
+  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=ehCgZ2wvmxoAOJJjRVAfeO_x2ngmSIHoTpTIfRugkaw&cl=ffffff&w=a"></script>
+</div>

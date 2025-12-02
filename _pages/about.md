@@ -64,7 +64,7 @@ We actively collaborate with leading institutions worldwide, including: [Univers
 
 
 ## Visitor Map
-<div style="max-width: 850px; margin: 0 auto; text-align: center;">
+<div style="max-width: 1000px; margin: 0 auto; text-align: center;">
   <!-- ClustrMaps embed script -->
   <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=ehCgZ2wvmxoAOJJjRVAfeO_x2ngmSIHoTpTIfRugkaw&cl=ffffff&w=a"></script>
 </div>

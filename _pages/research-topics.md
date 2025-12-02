@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <p align="center">
-  <img src="/images/main_banner.png" alt="IMRL research" width="100%">
+  <img src="/images/IMRL air-ground.png" alt="IMRL research" width="100%">
   <br>
 </p>
 

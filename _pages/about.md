@@ -57,7 +57,7 @@ Female candidates are strongly encouraged to apply!
 
 
 <!--
-Collaborations 
+Collaboration & Acknowledgement
 ======
 We actively collaborate with leading institutions worldwide, including: [University of Waterloo](https://uwaterloo.ca/mechanical-mechatronics-engineering/profile/akhajepo), [University of Alberta](https://apps.ualberta.ca/directory/person/ehashemi), [University of Ottawa](https://uniweb.uottawa.ca/view/profile/members/5853), [University of Michigan](https://umdearborn.edu/people-um-dearborn/xin-xia), [University of Hong Kong](https://www.dase.hku.hk/people/c-sun), etc.
 -->

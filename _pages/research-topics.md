@@ -5,13 +5,19 @@ title: ""
 author_profile: true
 ---
 
-# Explore our latest research stories:
 <p align="center">
-  <img src="/images/IMRL air-ground.png" alt="IMRL research" width="100%">
+  <img src="/images/IMRL air-ground.png" alt="IMRL air-ground" width="100%">
   <br>
 </p>
 
+# Explore our latest research stories:
+
 # Human-Led Platooning with Autonomous Trailers
+
+<p align="center">
+  <img src="/images/human-led.png" alt="Human-led Platooning" width="70%">
+  <br>
+</p>
 
 ## 1. Concept design: self-propelled heavy-duty trailer with hybrid diesel-electric powertrain and independent wheel corner modules
 
@@ -35,3 +41,8 @@ The most significant benefit of air-ground collaborative sensing lies in its abi
 # V2V Communication in Remote Areas with Limited Infrastructure
 
 Existing truck platooning systems rely heavily on GPS and cellular networks and are designed almost entirely for predictable highway conditions. These constraints make them unsuitable for remote regions, where GPS signals are limited, cellular service is minimal, and environmental conditions are far less predictable than on highways. Having a reliable V2V communication enables the autonomous followers to mimic the real-time control sequence from the leading human driver, who does not necessarily rely on GPS or any infrastructure. This research work is supported by strong industry collaboration with [Audesse Automotive Inc.](https://www.audesseinc.com/), who provide automotive-grade Vehicle Control Units (VCUs) and development tools. 
+
+<p align="center">
+  <img src="/images/log truck platoon.jpg" alt="IMRL log truck platoon" width="100%">
+  <br>
+</p>

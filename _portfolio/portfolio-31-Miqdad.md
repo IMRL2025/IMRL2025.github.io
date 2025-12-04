@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Alumni: Miqdad Abdurrauf Olamilekan, Research Assistant (July 2025 - Dec 2025)"
 excerpt: "BEng in Mechatronics Engineering <br/><br/>"
 collection: portfolio

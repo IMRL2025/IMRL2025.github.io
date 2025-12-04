@@ -10,14 +10,7 @@ author_profile: true
   <br>
 </p>
 
-# Explore our latest research stories:
-
 # Human-Led Platooning with Autonomous Trailers
-
-<p align="center">
-  <img src="/images/human-led.png" alt="Human-led Platooning" width="70%">
-  <br>
-</p>
 
 ## 1. Concept design: self-propelled heavy-duty trailer with hybrid diesel-electric powertrain and independent wheel corner modules
 
@@ -27,6 +20,10 @@ Human-in-the-loop autonomous (HiLA) systems have emerged as a critical framework
 
 ## 3. Data-driven learning-based leader-follower platooning control
 
+<p align="center">
+  <img src="/images/human-led.png" alt="Human-led Platooning" width="70%">
+  <br>
+</p>
 
 # Truck-Navigator
 

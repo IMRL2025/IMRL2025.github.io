@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Yu-Heng (Leo) Xie, Research Assistant (Remote Part-time)"
 excerpt: "BSc in Computer Engineering <br/><br/>"
 collection: portfolio

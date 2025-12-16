@@ -24,6 +24,8 @@ Lab Director’s Bio
 
 News
 ======
+🎉 December 12, 2025, [ResearchNB](https://researchnb.ca/): Our lab is grateful to receive support from ResearchNB’s Academic Startup Fund for the project “Toward Smart Forestry: Semi-Autonomous Platooning Transportation”.
+
 🎉 November 14, 2025, Springboard Atlantic: [UNB researcher explores autonomous truck technologies to tackle driver shortage in forestry](https://springboardatlantic.ca/unb-researcher-explores-autonomous-truck-technologies-to-tackle-driver-shortage-in-forestry/)
 <p align="center">
   <img src="/images/UNB news.jpg" alt="News Nov 14" width="80%">

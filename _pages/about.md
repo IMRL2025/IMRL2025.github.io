@@ -14,17 +14,15 @@ redirect_from:
   <br>
 </p>
 
-The Intelligent Mobility and Robotics Lab (IMRL), founded by Dr. Yukun Lu, is dedicated to advancing intelligent systems that enhance human well-being, accelerate technological innovation for industry, and serve the broader STEM community.
+The Intelligent Mobility and Robotics Lab (IMRL), founded by [Dr. Yukun Lu](https://www.unb.ca/faculty-staff/directory/engineering-mechanical/lu-yukun.html), is dedicated to advancing intelligent systems that enhance human well-being, accelerate technological innovation for industry, and serve the broader STEM community.
 
-Lab Director’s Bio
-======
 [Dr. Yukun Lu](https://www.unb.ca/faculty-staff/directory/engineering-mechanical/lu-yukun.html) joined the [Department of Mechanical Engineering](https://www.unb.ca/fredericton/engineering/depts/mechanical/index.html) at the [University of New Brunswick](https://www.unb.ca/) (UNB) as an Assistant Professor in July 2025, where she founded the Intelligent Mobility and Robotics Lab (IMRL). She also holds an appointment as an Adjunct Assistant Professor at the [University of Waterloo](https://uwaterloo.ca/) and serves as the Faculty Advisor for the [UNB Formula Racing Team](https://www.unbracing.com/). She earned her Ph.D. in [Mechanical and Mechatronics Engineering](https://uwaterloo.ca/mechanical-mechatronics-engineering/) from the University of Waterloo in 2023, where she continued as a Postdoctoral Researcher at the [Mechatronic Vehicle Systems Lab](https://uwaterloo.ca/mechatronic-vehicle-systems-lab/). She holds a B.Eng. in Vehicle Engineering with a minor in Business Administration, completed in 2018. Her background and future research interests include ground vehicle corner modules, intelligent robotic mobility, human-machine interaction, data-driven learning-based control strategies, vehicle dynamics and control, etc.
 
 
 
 News
 ======
-🎉 December 12, 2025, [ResearchNB](https://researchnb.ca/): Our lab is grateful to receive support from ResearchNB’s Academic Startup Fund for the project “Toward Smart Forestry: Semi-Autonomous Platooning Transportation”.
+💰 December 12, 2025, [ResearchNB](https://researchnb.ca/): Our lab is grateful to receive support from ResearchNB’s Academic Startup Fund for the project “Toward Smart Forestry: Semi-Autonomous Platooning Transportation”.
 
 🎉 November 14, 2025, Springboard Atlantic: [UNB researcher explores autonomous truck technologies to tackle driver shortage in forestry](https://springboardatlantic.ca/unb-researcher-explores-autonomous-truck-technologies-to-tackle-driver-shortage-in-forestry/)
 <p align="center">

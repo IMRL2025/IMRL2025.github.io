@@ -25,10 +25,6 @@ Human-in-the-loop autonomous (HiLA) systems have emerged as a critical framework
   <br>
 </p>
 
-# Truck-Navigator
-
-Truck Navigator is an experience-driven, self-evolving safety and passability mapping system that functions as a digital co-driver for heavy-duty trucks operating on typical freight routes. It continuously improves with each run by aggregating data on road geometry (curvature, grade, width), vehicle dynamics and limits (e.g., safe cornering speeds and braking distances under various loads), weather and surface conditions, and known hazard hotspots, thereby constructing a high-fidelity route knowledge base that captures the physical and operational constraints of these vehicles. Inspired by rally racing pace notes, the system translates this knowledge into human-readable driving instructions for each segment of the route, such as recommending safe speeds for upcoming curves under specific conditions, suggesting optimal deceleration points before steep descents, and issuing alerts for high-risk areas. A key innovation is the integration of vision-language models (VLMs) for enhanced perception and guidance: using truck-mounted cameras, the system’s VLM interprets visual cues in real time, and it automatically generates natural-language driving guidance on the fly.
-
 
 # Air-Ground Collaboration in Forestry
 
@@ -38,8 +34,3 @@ The most significant benefit of air-ground collaborative sensing lies in its abi
 # V2V Communication in Remote Areas with Limited Infrastructure
 
 Existing truck platooning systems rely heavily on GPS and cellular networks and are designed almost entirely for predictable highway conditions. These constraints make them unsuitable for remote regions, where GPS signals are limited, cellular service is minimal, and environmental conditions are far less predictable than on highways. Having a reliable V2V communication enables the autonomous followers to mimic the real-time control sequence from the leading human driver, who does not necessarily rely on GPS or any infrastructure. This research work is supported by strong industry collaboration with [Audesse Automotive Inc.](https://www.audesseinc.com/), who provide automotive-grade Vehicle Control Units (VCUs) and development tools. 
-
-<p align="center">
-  <img src="/images/log truck platoon.jpg" alt="IMRL log truck platoon" width="100%">
-  <br>
-</p>

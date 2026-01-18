@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Dongyue Qian, Research Assistant (Incoming PhD Student)"
+title: "Dongyue Qian, Research Assistant"
 excerpt: "MSc in Electrical and Electronic Engineering, BSc in Electronics and Information <br/><br/>"
 collection: portfolio
 ---

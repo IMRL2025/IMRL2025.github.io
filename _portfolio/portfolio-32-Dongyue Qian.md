@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Dongyue Qian, Research Assistant"
+title: "Alumni: Dongyue Qian, Research Assistant (June 2025 - Jan 2026)"
 excerpt: "MSc in Electrical and Electronic Engineering, BSc in Electronics and Information <br/><br/>"
 collection: portfolio
 ---

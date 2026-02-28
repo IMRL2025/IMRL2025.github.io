@@ -45,7 +45,7 @@ Please send your CV and research interest to yukun.lu@unb.ca
 
 1. [MScE and PhD](https://www.unb.ca/gradstudies/programs/mechanical.html): We welcome applications from students with backgrounds in Mechanical & Mechatronics, Electrical Engineering, or Computer Science who are interested in pursuing graduate studies.
 1. Postdoctoral Fellow and Visiting Scholar: Candidates with expertise in intelligent mobility, truck platooning, autonomous driving, and tracked vehicles are welcome to apply. 
-1. Research Assistant/Associate: Both full-time and part-time positions are available, with options for hybrid or fully remote work. Proficient in Python and ROS 2 Humble for robotic platform development and integration.
+1. Research Assistant: Proficient in Python and ROS 2 Humble for robotic platform development and integration.
 
 **Female candidates are strongly encouraged to apply!**
 

@@ -11,7 +11,10 @@ author_profile: true
 </p>
 
 # 1. Human-Led Platooning with Autonomous Followers
-
+<p align="center">
+  <img src="/images/human_led.png" alt="Human-led Platooning" width="75%">
+  <br>
+</p>
 ## 1.1 Concept Design: self-propelled heavy-duty trailer with hybrid diesel-electric powertrain and independent wheel corner modules
 The first component of this project is an innovative design for a self-propelled heavy-duty trailer intended to platoon behind a lead truck. This design aims to push beyond conventional passive trailers by giving the trailer intelligence and propulsion of its own. This self-propelled trailer carries its own hybrid diesel-electric powertrain with high efficiency and low emissions. This hybrid arrangement provides reliable power for long-haul transportation while electric motors deliver high torque on demand for uneven roads and steep grades. To realize terrain adaptability and maneuverability, the trailer employs independent wheel corner modules at each axle. Each module integrates an electric traction motor, a steering actuator, a suspension, and a braking system. Individual by-wire control replaces conventional driveshaft or steering rack, avoiding central mechanical linkages. An affordable and efficient sensor suite is designed to achieve reliable and safe autonomous following using low-cost sensors and lightweight onboard processing. Each sensor suite is a rugged module equipped with LiDAR, radar, and stereoscopic cameras, along with a local processing unit. Placing these suites at strategic locations (e.g. front hitch area, rear of trailer, and sides) gives the trailer a 360° awareness of its surroundings. As the first step, a scaled pure-electric prototype is under developing to demonstrate the feasibility of the proposed concept under controlled conditions. The prototype integrates a lightweight chassis, compact electric motors, drive-by-wire systems, and two sensor suites. On-campus trials will focus on low-speed maneuvering and system examination to verify the integrated hardware-software framework and ensure safe operation.
 
@@ -23,11 +26,6 @@ In parallel, the decision-making layer is designed to ensure the autonomous foll
 
 ## 1.4 Data-Driven Learning-Enabled Leader-Follower Platooning Control 
 At the core of the proposed framework is a leader-follower control strategy that treats the fleet as a cohesive, cooperative system, ensuring stability, safety, and scalability in diverse operating conditions. Technically, the human driver in the lead truck defines the reference trajectory, while each autonomous trailer maintains precise alignment through a virtual tractor model that tracks a moving reference point projected behind the vehicle ahead. To ensure adaptability, an adaptive control approach is developed using real-time model estimation and gain scheduling to respond to variations in payload, terrain, and weather. For example, the follower may automatically increase following distance on slippery surfaces or modulate acceleration under heavy loads. Building upon this foundation, a dual control architecture that balancing short-term control objectives with long-term learning will be integrated with reinforcement learning to address human-machine interaction and human’s behavioral uncertainty. Since the platoon comprises both human-driven and autonomous units, understanding and modeling human-machine trust becomes crucial. On one hand, when human drivers experience automation that aligns with their preferred driving style, they report higher acceptance and comfort. This indicates that capturing and replicating human driving styles not only improves system realism but also enhances driver trust and technology acceptance. On the other hand, autonomous followers must continuously evaluate the safety of the human driver’s maneuvers and adapt accordingly, either by following or learning the human behavior over time. This bi-directional adaptation reflects a mutual trust framework between human operators and automated agents. The RL-based policy serves as an intelligent supervisory layer on top of the base controller, enabling the system to refine its responses through experience and to handle uncertainties and nonlinearities that are difficult to encode in traditional rule-based control.
-
-<p align="center">
-  <img src="/images/human_led.png" alt="Human-led Platooning" width="70%">
-  <br>
-</p>
 
 
 # 2. Air-Ground Collaboration in Forestry

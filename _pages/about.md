@@ -22,6 +22,8 @@ redirect_from:
 
 News
 ======
+💰 April 01, 2026, [NSERC]([https://researchnb.ca/](https://nserc-crsng.canada.ca/en/funding-opportunity/discovery-grants-individual-program)): Our lab is grateful to receive support from NSERC Discovery Grant for the program “Toward Smart Forestry: Human-Led Platooning with Autonomous Trailers”.
+
 💰 December 12, 2025, [ResearchNB](https://researchnb.ca/): Our lab is grateful to receive support from ResearchNB’s Academic Startup Fund for the project “Toward Smart Forestry: Semi-Autonomous Platooning Transportation”.
 
 🎉 November 14, 2025, Springboard Atlantic: [UNB researcher explores autonomous truck technologies to tackle driver shortage in forestry](https://springboardatlantic.ca/unb-researcher-explores-autonomous-truck-technologies-to-tackle-driver-shortage-in-forestry/)

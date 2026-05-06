@@ -32,6 +32,8 @@ At the core of the proposed framework is a leader-follower control strategy that
   <br>
 </p>
 
+More experimental studies can be found at: [A Scaled Three-Vehicle Platooning Platform](https://arxiv.org/abs/2604.25963).
+
 ## 1.5 V2V Communication in Remote Areas with Limited Infrastructure
 Existing truck platooning systems rely heavily on GPS and cellular networks and are designed almost entirely for predictable highway conditions. These constraints make them unsuitable for remote regions, where GPS signals are limited, cellular service is minimal, and environmental conditions are far less predictable than on highways. Having a reliable V2V communication enables the autonomous followers to mimic the real-time control sequence from the leading human driver, who does not necessarily rely on GPS or any infrastructure. This research work is supported by strong industry collaboration with [Audesse Automotive Inc.](https://www.audesseinc.com/), who provide automotive-grade Vehicle Control Units (VCUs) and development tools. 
 

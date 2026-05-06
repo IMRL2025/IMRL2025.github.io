@@ -10,7 +10,7 @@ author_profile: true
   <br>
 </p>
 
-# 1. Human-Led Platooning with Autonomous Followers
+# 1. [Human-Led Platooning](https://arxiv.org/abs/2603.13296) with Autonomous Followers
 <p align="center">
   <img src="/images/human_led.png" alt="Human-led Platooning" width="75%">
   <br>
@@ -35,13 +35,15 @@ At the core of the proposed framework is a leader-follower control strategy that
 ## 1.5 V2V Communication in Remote Areas with Limited Infrastructure
 Existing truck platooning systems rely heavily on GPS and cellular networks and are designed almost entirely for predictable highway conditions. These constraints make them unsuitable for remote regions, where GPS signals are limited, cellular service is minimal, and environmental conditions are far less predictable than on highways. Having a reliable V2V communication enables the autonomous followers to mimic the real-time control sequence from the leading human driver, who does not necessarily rely on GPS or any infrastructure. This research work is supported by strong industry collaboration with [Audesse Automotive Inc.](https://www.audesseinc.com/), who provide automotive-grade Vehicle Control Units (VCUs) and development tools. 
 
+# 2. [TruckSafe](https://www.researchgate.net/publication/404395379_TruckSafe_A_Physics-Informed_Co-Driver_System): A Physics-Informed Co-Driver System
 
-# 2. Air-Ground Collaboration in Forestry
+
+# 3. Air-Ground Collaboration in Forestry
 
 The most significant benefit of air-ground collaborative sensing lies in its ability to substantially enhance tree inventory workflows. Airborne camera and LiDAR rapidly cover large forested regions and capture canopy-scale structural attributes, while ground robots operating beneath the canopy provide high-precision stem-level parameters such as diameter at breast height (DBH), tree height, stem curve, and wood volume. When fused, these datasets form a complete representation of forest structure that neither platform can achieve alone. Importantly, the integrated point clouds and extracted attributes can be stored in LAS/LAZ formats, enabling the construction of a long-term, digital forest database. Such a database supports a wide range of applications in both environmental preservation and timber harvesting, contributing to sustainable and data-driven forest management.
 
 
-# 3. Human-Led Cooperative Transportation Systems: From Truck Platoons to Coastal Vessel Fleets
+# 4. Human-Led Cooperative Transportation Systems: From Truck Platoons to Coastal Vessel Fleets
 <p align="center">
   <img src="/images/IMRL_vessel_fleet.png" alt="IMRL_vessel_fleet" width="100%">
   <br>

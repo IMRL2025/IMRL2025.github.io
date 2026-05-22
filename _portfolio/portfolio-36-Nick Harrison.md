@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Alumni: Nick Harrison, Undergraduate Student (Jan. 2026 - April 2026)"
+title: "Alumni: Nick Harrison, Undergraduate Student (Jan. 2026 - Aug. 2026)"
 excerpt: "Department of Mechanical Engineering, University of New Brunswick <br/><br/>"
 collection: portfolio
 ---

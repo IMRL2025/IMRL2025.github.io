@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Alumni: Jincheng (Frank) Xu, Research Assistant (Jan. 2026 - March 2026)"
+title: "Jincheng (Frank) Xu, MSc Student"
 excerpt: "MSc in Computer Science <br/><br/>"
 collection: portfolio
 ---

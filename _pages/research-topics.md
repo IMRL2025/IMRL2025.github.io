@@ -45,7 +45,7 @@ Existing truck platooning systems rely heavily on GPS and cellular networks and 
 The most significant benefit of air-ground collaborative sensing lies in its ability to substantially enhance tree inventory workflows. Airborne camera and LiDAR rapidly cover large forested regions and capture canopy-scale structural attributes, while ground robots operating beneath the canopy provide high-precision stem-level parameters such as diameter at breast height (DBH), tree height, stem curve, and wood volume. When fused, these datasets form a complete representation of forest structure that neither platform can achieve alone. Importantly, the integrated point clouds and extracted attributes can be stored in LAS/LAZ formats, enabling the construction of a long-term, digital forest database. Such a database supports a wide range of applications in both environmental preservation and timber harvesting, contributing to sustainable and data-driven forest management.
 
 
-# 4. Human-Led Cooperative Transportation Systems: From Truck Platoons to Coastal Vessel Fleets
+# 4. Human-Led Cooperative Transportation Systems: [From Truck Platoons to Coastal Vessel Fleets](https://www.researchgate.net/publication/408251224_Human-Led_Cooperative_Transportation_Systems_From_Truck_Platoons_to_Coastal_Vessel_Fleets)
 <p align="center">
   <img src="/images/IMRL_vessel_fleet.png" alt="IMRL_vessel_fleet" width="100%">
   <br>

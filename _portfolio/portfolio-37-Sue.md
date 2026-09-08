@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Kanyarat Sriwichainchai, PhD Student"
-excerpt: "MEng in Electrical Engineering, BSc in Aeronautical and Astronautical Engineering <br/><br/>"
+title: "Alumni: Kanyarat Sriwichainchai, Research Assistant (May 2026 - Aug. 2026)"
+excerpt: "Department of Mechanical Engineering, University of New Brunswick <br/><br/>"
 collection: portfolio
 ---
